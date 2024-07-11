@@ -7,7 +7,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # NASA API key and URL
-DEMO_KEY = 'oAi4XkIDH4uHVVngtRSR4kkgdwslc3Vrfln8pSoi'
+DEMO_KEY = 'YOUR API KEY'
 url = 'https://api.nasa.gov/planetary/apod'
 
 # Streamlit UI
